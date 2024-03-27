@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WEB 3.0 Ecosystem<br>👯 I’m looking to collaborate on Full Stack Development Projects.<br>🌱 I’m currently learning: Typescript, Next.js, BUNjs.<br>💬 Ask me about MERN development.<br>⚡ Fun fact: I am an union of GEEK and WEEB at the same time.
+🔭 I’m currently working on WEB-Development<br>👯 I’m looking to collaborate on Full Stack Development Projects.<br>🌱 I’m currently learning: Typescript, Next.js, BUNjs.<br>💬 Ask me about MERN development.<br>⚡ Fun fact: I am an union of GEEK and WEEB at the same time.
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kazu_kun106/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksh-kumrawat-81aa5a1b4/) [![](https://badges.peiyuan.ch/leetcode/rudrakshk/ranking?label=rudrakshk&logo=leetcode)](https://leetcode.com/rudrakshk/)
